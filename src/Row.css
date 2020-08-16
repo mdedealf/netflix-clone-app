@@ -25,11 +25,11 @@
 .row__poster:hover {
     transform: scale(1.08);
     opacity: 1;
+    cursor: pointer;
 }
 
 .row__posterLarge {
     max-height: 250px;
-
 }
 
 .row__posterLarge:hover {
